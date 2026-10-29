@@ -1,0 +1,2 @@
+Replace this file with your actual resume PDF named resume.pdf.
+The hero button downloads /resume.pdf. Until you add the PDF, the button remains visible but the file will not download.
