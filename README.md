@@ -10,7 +10,6 @@ This portfolio showcases my skills, projects, and journey as a web developer.
 
 **Portfolio Website:** [View My Portfolio](https://sabab-portfolio-0.vercel.app/)
 
-
 ## 🛠️ Technologies Used
 
 - HTML5
@@ -40,8 +39,6 @@ Explore some of my web development projects:
 | MovieHub  | Movie discovery application  | [GitHub](https://github.com/tausifahamedsabab/movie-app)                |
 | Bazar-Dor | E-commerce web application   | [GitHub](https://github.com/tausifahamedsabab/b14-a7-bazar-dor-project) |
 | FitLog    | Fitness tracking application | [GitHub](https://github.com/tausifahamedsabab/b14-a6-fit-log-project)   |
-
-_Add the live demo URLs for each project after verifying their deployments._
 
 ## 💻 Run Locally
 
