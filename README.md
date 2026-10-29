@@ -10,7 +10,6 @@ This portfolio showcases my skills, projects, and journey as a web developer.
 
 **Portfolio Website:** [View My Portfolio](https://sabab-portfolio-0.vercel.app/)
 
-> Replace the URL above with your actual deployed portfolio URL.
 
 ## 🛠️ Technologies Used
 
